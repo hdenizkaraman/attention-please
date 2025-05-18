@@ -28,7 +28,7 @@ Eğitim tamamlandıktan sonra, ikinci sekmeye geçebilirsiniz. Dilediğiniz keli
 
 4. Model son derece basit bir yapı barındırıyor.
 
-## Yol Haritası ve Genel Yapılar
+## :scroll: Yol Haritası ve Genel Yapılar
 > **class Dataset**
 Veri HuggingFace ortamından çekiliyor. Temizleme ve tokenizasyon ile bu sınıf ilgileniyor.
 
